@@ -7,7 +7,7 @@ public class Day1_Part1 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		File file = new File("test.txt"); 
+		File file = new File("Day1Part1.txt"); 
 		  
 		BufferedReader br = new BufferedReader(new FileReader(file)); 
 		  
